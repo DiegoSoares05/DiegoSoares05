@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diego Carvalho 👋🏿
 
 ![Diego's GitHub stats GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoSoares05&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSoares05&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSoares05&layout=compact&theme=tokyonight)
 
 ## Tecnologias
 
